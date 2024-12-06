@@ -1,6 +1,6 @@
 # Commonwealth Cushaw Project documentation repository
 
-This git repository contains all of the content as well as the Jeckyll scripts that are used to generate the website for the Commonwealth Cushaw Project.
+This repository contains all of the content as well as the Jeckyll scripts that are used to generate the website for the Commonwealth Cushaw Project.
 
 ## Using images
 
